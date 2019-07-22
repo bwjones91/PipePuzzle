@@ -49,7 +49,7 @@ namespace PIPE_PACKAGE{
 			TileManager.instance.TileClicked += OnTileClicked;
 			TileManager.instance.TileHighlighted += OnTileHighlighted;
 			TileManager.instance.TileDehighlighted += OnTileDehighlighted;
-        }	
+		}	
 
 		public void InitLevel (int level) {
 			MusicManager.instance.Play (MusicManager.instance.musicList[1]);

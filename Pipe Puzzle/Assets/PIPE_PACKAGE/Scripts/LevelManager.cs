@@ -35,10 +35,8 @@ namespace PIPE_PACKAGE{
 			int unlockLevel = PlayerPrefs.GetInt ("UnlockLevel", 0);
 			currentPage = unlockLevel / levelPrePage;
 			CreatePage ();
-            gameManager.SetActive(true);
-            GameManager.instance.InitLevel(1);
 
-        }
+		}
 
 		void Update () {
 
@@ -148,7 +146,6 @@ namespace PIPE_PACKAGE{
 
 				this.gameObject.SetActive (false);
 				gameManager.SetActive (true);
-                Debug.Log(level.number);
 				GameManager.instance.InitLevel (level.number);
 			}
 		}

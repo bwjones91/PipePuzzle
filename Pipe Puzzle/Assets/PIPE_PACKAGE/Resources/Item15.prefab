@@ -54,10 +54,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 15
   rotation: 0
-  enableTopJoin: 1
-  enableBottomJoin: 1
-  enableLeftJoin: 0
-  enableRightJoin: 0
+  enableTopJoin: 0
+  enableBottomJoin: 0
+  enableLeftJoin: 1
+  enableRightJoin: 1
   isFixed: 1
   isKeyItem: 1
   selectedSound: {fileID: 8300000, guid: ac89fa711aa3249eaa132d25d3dd2697, type: 3}

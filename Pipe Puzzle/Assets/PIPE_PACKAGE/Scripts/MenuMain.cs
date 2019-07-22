@@ -16,7 +16,6 @@ namespace PIPE_PACKAGE {
 
 		void Start () {
 			MusicManager.instance.Play (MusicManager.instance.musicList[0]);
-            Play();
 		}
 
 		public void Play(){

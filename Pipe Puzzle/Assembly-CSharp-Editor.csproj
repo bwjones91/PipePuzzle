@@ -59,40 +59,40 @@
      <Compile Include="Assets\PIPE_PACKAGE\Scripts\Editor\LevelEditor.cs" />
      <Compile Include="Assets\TutorialInfo\Scripts\Editor\ReadmeEditor.cs" />
  <Reference Include="com.unity.render-pipelines.core.Editor">
- <HintPath>C:/Users/The Count/Documents/Github/Pipe Puzzle/Library/ScriptAssemblies/com.unity.render-pipelines.core.Editor.dll</HintPath>
+ <HintPath>C:/Users/The Count/Documents/Github/PipePuzzle/Pipe Puzzle/Library/ScriptAssemblies/com.unity.render-pipelines.core.Editor.dll</HintPath>
  </Reference>
  <Reference Include="com.unity.render-pipelines.core.Runtime">
- <HintPath>C:/Users/The Count/Documents/Github/Pipe Puzzle/Library/ScriptAssemblies/com.unity.render-pipelines.core.Runtime.dll</HintPath>
+ <HintPath>C:/Users/The Count/Documents/Github/PipePuzzle/Pipe Puzzle/Library/ScriptAssemblies/com.unity.render-pipelines.core.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.StandardEvents">
- <HintPath>C:/Users/The Count/Documents/Github/Pipe Puzzle/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+ <HintPath>C:/Users/The Count/Documents/Github/PipePuzzle/Pipe Puzzle/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>C:/Users/The Count/Documents/Github/Pipe Puzzle/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>C:/Users/The Count/Documents/Github/PipePuzzle/Pipe Puzzle/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="com.unity.render-pipelines.lightweight.Runtime">
- <HintPath>C:/Users/The Count/Documents/Github/Pipe Puzzle/Library/ScriptAssemblies/com.unity.render-pipelines.lightweight.Runtime.dll</HintPath>
+ <HintPath>C:/Users/The Count/Documents/Github/PipePuzzle/Pipe Puzzle/Library/ScriptAssemblies/com.unity.render-pipelines.lightweight.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="com.unity.render-pipelines.lightweight.Editor">
- <HintPath>C:/Users/The Count/Documents/Github/Pipe Puzzle/Library/ScriptAssemblies/com.unity.render-pipelines.lightweight.Editor.dll</HintPath>
+ <HintPath>C:/Users/The Count/Documents/Github/PipePuzzle/Pipe Puzzle/Library/ScriptAssemblies/com.unity.render-pipelines.lightweight.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>C:/Users/The Count/Documents/Github/Pipe Puzzle/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>C:/Users/The Count/Documents/Github/PipePuzzle/Pipe Puzzle/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="com.unity.postprocessing.Editor">
- <HintPath>C:/Users/The Count/Documents/Github/Pipe Puzzle/Library/ScriptAssemblies/com.unity.postprocessing.Editor.dll</HintPath>
+ <HintPath>C:/Users/The Count/Documents/Github/PipePuzzle/Pipe Puzzle/Library/ScriptAssemblies/com.unity.postprocessing.Editor.dll</HintPath>
  </Reference>
  <Reference Include="com.unity.postprocessing.Runtime">
- <HintPath>C:/Users/The Count/Documents/Github/Pipe Puzzle/Library/ScriptAssemblies/com.unity.postprocessing.Runtime.dll</HintPath>
+ <HintPath>C:/Users/The Count/Documents/Github/PipePuzzle/Pipe Puzzle/Library/ScriptAssemblies/com.unity.postprocessing.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="Unity.ShaderGraph.Editor">
- <HintPath>C:/Users/The Count/Documents/Github/Pipe Puzzle/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
+ <HintPath>C:/Users/The Count/Documents/Github/PipePuzzle/Pipe Puzzle/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>C:/Users/The Count/Documents/Github/Pipe Puzzle/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>C:/Users/The Count/Documents/Github/PipePuzzle/Pipe Puzzle/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="com.unity.render-pipelines.core.IncludePaths">
- <HintPath>C:/Users/The Count/Documents/Github/Pipe Puzzle/Library/ScriptAssemblies/com.unity.render-pipelines.core.IncludePaths.dll</HintPath>
+ <HintPath>C:/Users/The Count/Documents/Github/PipePuzzle/Pipe Puzzle/Library/ScriptAssemblies/com.unity.render-pipelines.core.IncludePaths.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity 2.4/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>

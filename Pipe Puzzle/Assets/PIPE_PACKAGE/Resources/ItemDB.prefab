@@ -72,5 +72,4 @@ MonoBehaviour:
   - {fileID: 114000010764238484, guid: 069e8b4a589f04c2ab71082a4c1a3a7d, type: 2}
   - {fileID: 114000013378832520, guid: d1646380d51b64781b85354a2c5e86bb, type: 2}
   - {fileID: 114000013990016818, guid: ac663928c6289489484e8fdc10a57f19, type: 2}
-  - {fileID: 114964469002387512, guid: 6955ab4a5eb065c49a0b74965711076d, type: 2}
-  primaryKey: 34
+  primaryKey: 31
