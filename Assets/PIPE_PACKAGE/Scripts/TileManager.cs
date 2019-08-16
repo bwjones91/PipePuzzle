@@ -54,17 +54,20 @@ namespace PIPE_PACKAGE{
 				}
 			}
 
-			//scale to fit screen
-			float gameZoneWidth = 6.0f * 2.56f - 1.0f;
-			float gameZoneHeight = gameCamera.orthographicSize * 2.0f - 4.0f;
+            //scale to fit screen
+            //float gameZoneWidth = 6.0f * 2.56f - 1.0f;
+            //float gameZoneHeight = gameCamera.orthographicSize * 3f - 4.0f;
+            float gameZoneWidth = 16f;
+            float gameZoneHeight = 9f;
 			float scaleX = gameZoneWidth / (TileManager.instance.maxCols * itemWidth);
 			float scaleY = gameZoneHeight / (TileManager.instance.maxRows * itemHeight);
 			float scale = scaleX < scaleY ? scaleX : scaleY;
-			this.transform.position = new Vector3 (-(maxCols - 1) * itemWidth * scale / 2, gameZoneHeight/2 - 2.0f, 10);
-			this.transform.localScale = new Vector3 (scale, scale, 1.0f);
-		}
-			
-		private void CreateTile (int row, int col, ItemData itemData){
+            this.transform.position = new Vector3 (-(maxCols - 1) * itemWidth * scale / 2, (maxRows - 1) * itemHeight * scale/2, 10);
+            this.transform.localScale = new Vector3 (scale, scale, 1.0f);
+            //gameZoneHeight/2-.5f
+        }
+
+        private void CreateTile (int row, int col, ItemData itemData){
 
 			GameObject tileObject = new GameObject();
 			tileObject.AddComponent<SpriteRenderer>();

@@ -146,7 +146,8 @@ namespace PIPE_PACKAGE{
 
 				this.gameObject.SetActive (false);
 				gameManager.SetActive (true);
-				GameManager.instance.InitLevel (level.number);
+                //GameManager.instance.InitLevel (level.number);
+                PipeLockManager.instance.InitLevel(level.number);
 			}
 		}
 	}
