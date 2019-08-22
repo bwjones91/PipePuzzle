@@ -109,6 +109,7 @@ namespace PIPE_PACKAGE
             if (CheckJoin())
             {
                 //MenuGameComplete();
+                GameBTManager.instance.sendBlueToothMessage("passwordA");
                 RestartGame();
             }
         }

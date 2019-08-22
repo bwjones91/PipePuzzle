@@ -10,10 +10,10 @@ namespace PIPE_PACKAGE{
 		public float designWidth = 15.36f;
 
 		void Awake () {
-            /*
+            
 			float aspectRatio = (float)Screen.height / (float)Screen.width;
 			this.GetComponent<Camera> ().orthographicSize = (designWidth / 2.0f) * aspectRatio;
-            */
+            
 		}
 
 		// Update is called once per frame
